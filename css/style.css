@@ -91,7 +91,8 @@ cont
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: var(--primary);
+  color: #f3f3f3;
+  background: var(--primary);
 }
 
 @media (min-width: 992px) {
@@ -102,6 +103,7 @@ cont
     height: 7px;
     top: -4px;
     left: 50%;
+    display:none;
     background: var(--primary);
     transition: 0.5s;
   }
