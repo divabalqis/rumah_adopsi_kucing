@@ -29,7 +29,17 @@ cont
 .btn-primary {
   color: #ffffff;
 }
+.pacifico-regular {
+  font-family: "Pacifico";
+  font-weight: 400;
+  font-style: normal;
+}
 
+.sofia-regular {
+  font-family: "Sofia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 .btn-square {
   width: 36px;
   height: 36px;
