@@ -6,7 +6,7 @@
   --dark: #212121;
 }
 body {
-  font-family: "bitters";
+  font-family: "Gill Sans", sans-serif;
   background-color:#dce2e1;
 }
 
@@ -506,3 +506,4 @@ height: 300px;
   display: grid;
   grid-auto-flow: row;
 }
+
