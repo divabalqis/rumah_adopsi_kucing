@@ -30,7 +30,7 @@ cont
   color: #ffffff;
 }
 .pacifico-regular {
-  font-family: "Pacifico";
+  font-family: "Gill Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -506,4 +506,5 @@ height: 300px;
   display: grid;
   grid-auto-flow: row;
 }
+
 
